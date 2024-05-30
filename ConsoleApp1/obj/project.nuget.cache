@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sQzXd2NCNVKou3rrMMUMKOBNXz6Qr5lNOhNatE+VgC/htLLgxxCRzJkyViZTJKd7vSypTTAizrOyyZpmtIV2gw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\thinkpad\\OneDrive\\Asztali gép\\schoolpaper-master\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project schoolPaper is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project schoolPaper supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "schoolPaper",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
